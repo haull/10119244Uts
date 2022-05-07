@@ -90,7 +90,7 @@ public class ProfileFragment extends Fragment {
                 Intent fb = new Intent();
                 fb.setAction(Intent.ACTION_VIEW);
                 fb.addCategory(Intent.CATEGORY_BROWSABLE);
-                fb.setData(Uri.parse("https://web.facebook.com/dimas.m.huda.9"));
+                fb.setData(Uri.parse("https://www.facebook.com/pensil.shinchan/"));
                 startActivity(fb);
             }
         });
@@ -102,7 +102,7 @@ public class ProfileFragment extends Fragment {
                 Intent ig = new Intent();
                 ig.setAction(Intent.ACTION_VIEW);
                 ig.addCategory(Intent.CATEGORY_BROWSABLE);
-                ig.setData(Uri.parse("https://www.instagram.com/dimas.mfth"));
+                ig.setData(Uri.parse("https://www.instagram.com/haull__"));
                 startActivity(ig);
             }
         });
@@ -114,7 +114,7 @@ public class ProfileFragment extends Fragment {
                 Intent tw = new Intent();
                 tw.setAction(Intent.ACTION_VIEW);
                 tw.addCategory(Intent.CATEGORY_BROWSABLE);
-                tw.setData(Uri.parse("https://twitter.com/dimasmfth"));
+                tw.setData(Uri.parse("https://twitter.com/https://twitter.com/seanwibuuu"));
                 startActivity(tw);
             }
         });
@@ -126,7 +126,7 @@ public class ProfileFragment extends Fragment {
                 Intent wa = new Intent();
                 wa.setAction(Intent.ACTION_VIEW);
                 wa.addCategory(Intent.CATEGORY_BROWSABLE);
-                wa.setData(Uri.parse("https://api.whatsapp.com/send?phone=62881023242114"));
+                wa.setData(Uri.parse("https://api.whatsapp.com/send?phone=6282219887214"));
                 startActivity(wa);
             }
         });
@@ -138,7 +138,7 @@ public class ProfileFragment extends Fragment {
                 Intent gm = new Intent();
                 gm.setAction(Intent.ACTION_VIEW);
                 gm.addCategory(Intent.CATEGORY_BROWSABLE);
-                gm.setData(Uri.parse("mailto:dimas.mfth@gmail.com"));
+                gm.setData(Uri.parse("mailto:r2d2haul@gmail.com"));
                 startActivity(gm);
             }
         });
@@ -150,13 +150,13 @@ public class ProfileFragment extends Fragment {
                 Intent map = new Intent();
                 map.setAction(Intent.ACTION_VIEW);
                 map.addCategory(Intent.CATEGORY_BROWSABLE);
-                map.setData(Uri.parse("https://goo.gl/maps/3T5KkX2KV1Qqysph6"));
+                map.setData(Uri.parse("https://goo.gl/maps/yRuyPaegUC7RDyKu7"));
                 startActivity(map);
             }
         });
 
         // phone
-        tvPhone.setText("085157478077");
+        tvPhone.setText("082219887214");
         Linkify.addLinks(tvPhone, Linkify.PHONE_NUMBERS);
 
         // about
