@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">10119244Uts</string>
+    <string name="MyselfApp">MyselfApp</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello There!</string>
+    <string name="slide_1_desc">This app was created to introduce MYSELF</string>
+
+    <string name="slide_2_title">Tell you</string>
+    <string name="slide_2_desc">About my daily activities and hobbies</string>
+
+    <string name="slide_3_title">My favorite things</string>
+    <string name="slide_3_desc">I love Anime, Western Series, Olivia Rodrigo, Taylor Swift, Lany, and more</string>
+
+    <string name="slide_4_title">Stalk Me</string>
+    <string name="slide_4_desc">Lets find out more about me!!!</string>
+
+
+    <string name="welcome">Welcome to</string>
+    <string name="title_aboutme">About Me</string>
+    <string name="aboutme">Informatics student. Interest to UI Design and Data Science.</string>
+    <string name="namalengkap">Name: Mya Hauliyah</string>
+    <string name="headname">Haul</string>
+    <string name="title_contactme">Contact Me</string>
+    <string name="phone">+6282219887214</string>
+    <string name="about">About Application</string>
+    <string name="nim">NIM: 10119244</string>
+    <string name="kelas">Class: IF-6</string>
+    <string name="hobi">Hobbies: Watching movies and playing games </string>
+    <string name="makananfavorit">Fav Foods: Indomie and Ramen </string>
+    <string name="minumanfavorit">Fav Drinks: Ice coffee and matcha latte</string>
+    <string name="lagufavorit">Fav Song: Taylor Swift - You belong with me</string>
+    <string name="filmfavorit">Fav Movie: Black Clover</string>
+    <string name="citacita">I have no dreams</string>
+    <string name="quote">You can call me what you like, but I will be taking your cake. -L</string>
+
+    <string name="title_activity">My daily activity</string>
+    <string name="title_friends">My friend</string>
+    <string name="title_music">Songs</string>
+    <string name="title_video">Videos</string>
+    <string name="title_gallery">My gallery</string>
+</resources>
