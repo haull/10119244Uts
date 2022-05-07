@@ -167,7 +167,7 @@
                             android:layout_width="100dp"
                             android:layout_height="50dp"
                             android:layout_gravity="center"
-                            android:src="@drawable/contact_spotify" />
+                            android:src="@drawable/contact_map" />
                     </LinearLayout>
                 </LinearLayout>
                 <View
